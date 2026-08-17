@@ -151,7 +151,7 @@ I'm a **BSc (Hons) Computer Science student** with hands-on full-stack internshi
 ---
 
 <p align="center">
-  <a href="https://tfamil.com/?utm_source=github.com&utm_medium=readme&utm_campaign=git-readme&utm_id=tfamil&utm_term=git-readme&utm_content=readme" target="_blank"><strong>🌐 0xgthuva.com</strong></a>
+  <a href="https://tfamil.com/?utm_source=github.com&utm_medium=readme&utm_campaign=git-readme&utm_id=tfamil&utm_term=git-readme&utm_content=readme" target="_blank"><strong>🌐 tfamil.com</strong></a>
 </p>
 
 <p align="center">
