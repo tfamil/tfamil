@@ -129,11 +129,11 @@ I'm a **BSc (Hons) Computer Science student** with hands-on full-stack internshi
 ### 📊 GitHub
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Thamilini's GitHub stats" />
+  <img src="profile/stats.svg" width="495" alt="Thamilini's GitHub profile stats" />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top languages" />
+  <img src="profile/top-langs.svg" width="495" alt="Languages I build with" />
 </p>
 
 ---
