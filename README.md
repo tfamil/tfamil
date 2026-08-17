@@ -148,6 +148,12 @@ I'm a **BSc (Hons) Computer Science student** with hands-on full-stack internshi
 | **GitHub** | https://github.com/tfamil/?utm_source=github.com&utm_medium=readme&utm_campaign=git-readme&utm_id=tfamil&utm_term=git-readme&utm_content=readme |
 | **LinkedIn** | https://linkedin.com/in/gthamil/?utm_source=github.com&utm_medium=readme&utm_campaign=git-readme&utm_id=tfamil&utm_term=git-readme&utm_content=readme |
 
+---
+
+<p align="center">
+  <a href="https://tfamil.com/?utm_source=github.com&utm_medium=readme&utm_campaign=git-readme&utm_id=tfamil&utm_term=git-readme&utm_content=readme" target="_blank"><strong>🌐 0xgthuva.com</strong></a>
+</p>
+
 <p align="center">
   <strong>Build · Test · Debug · Learn</strong>
 </p>
