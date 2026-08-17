@@ -8,8 +8,7 @@
 <p align="center">
   <a href="https://github.com/tfamil" target="_blank">💻 GitHub</a> ·
   <a href="https://linkedin.com/in/gthamil/?utm_source=github.com&utm_medium=readme&utm_campaign=git-readme&utm_id=tfamil&utm_term=git-readme&utm_content=readme" target="_blank">💼 LinkedIn</a> ·
-  <a href="mailto:thamilgobalakrishnan@gmail.com">📫 Email</a> ·
-  <strong>📱 +94 75 055 3425</strong>
+  <a href="mailto:thamilgobalakrishnan@gmail.com">📫 Email</a>
 </p>
 
 ---
