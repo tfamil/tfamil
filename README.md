@@ -129,11 +129,11 @@ I'm a **BSc (Hons) Computer Science student** with hands-on full-stack internshi
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tfamil&show_icons=true&hide_border=true&theme=transparent" alt="Thamilini's GitHub stats" />
+  <img src="./profile/stats.svg" alt="Thamilini's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfamil&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
